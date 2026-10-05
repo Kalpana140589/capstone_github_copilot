@@ -1,0 +1,8 @@
+[project]
+name = "docs-sync"
+version = "0.1.0"
+description = "Automated Documentation Sync tool (MVP)"
+requires-python = ">=3.10"
+
+[tool.poetry.dependencies]
+python = ">=3.10"
